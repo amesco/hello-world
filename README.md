@@ -1,6 +1,5 @@
 # hello-world
 
-Repository Trial
 
 Hello!
 
